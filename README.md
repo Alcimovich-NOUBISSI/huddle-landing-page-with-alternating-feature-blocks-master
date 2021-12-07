@@ -13,15 +13,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## Screenshot
-
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -37,12 +28,6 @@ I learned a lot about:
 - css positioning, margin, padding  
 - responsive web design
 - how to use bootstrap
-
-
-### Continued development
-
-I'm still not comfortable with:
--css refactoring (using re-usable code, combining selectors, etc...)
 
 
 ### Useful resources
